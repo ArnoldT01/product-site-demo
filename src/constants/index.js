@@ -27,13 +27,13 @@ const noChangeParts = [
 ];
 
 const performanceImages = [
-    { id: "p1", src: "/performance1.png" },
-    { id: "p2", src: "/performance2.png" },
-    { id: "p3", src: "/performance3.png" },
-    { id: "p4", src: "/performance4.png" },
-    { id: "p5", src: "/performance5.jpg" },
-    { id: "p6", src: "/performance6.png" },
-    { id: "p7", src: "/performance7.png" },
+    { id: "p1", src: "/product-site-demo/performance1.png" },
+    { id: "p2", src: "/product-site-demo/performance2.png" },
+    { id: "p3", src: "/product-site-demo/performance3.png" },
+    { id: "p4", src: "/product-site-demo/performance4.png" },
+    { id: "p5", src: "/product-site-demo/performance5.jpg" },
+    { id: "p6", src: "/product-site-demo/performance6.png" },
+    { id: "p7", src: "/product-site-demo/performance7.png" },
 ];
 
 const performanceImgPositions = [
@@ -77,35 +77,35 @@ const performanceImgPositions = [
 const features = [
     {
         id: 1,
-        icon: "/feature-icon1.svg",
+        icon: "/product-site-demo/feature-icon1.svg",
         highlight: "Email AI.",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer necodio vitae.",
         styles: "left-5 md:left-20 top-[20%] opacity-0 translate-y-5",
     },
     {
         id: 2,
-        icon: "/feature-icon2.svg",
+        icon: "/product-site-demo/feature-icon2.svg",
         highlight: "Image AI.",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer necodio vitae justo malesuada.",
         styles: "right-5 md:right-20 top-[30%] opacity-0 translate-y-5",
     },
     {
         id: 3,
-        icon: "/feature-icon3.svg",
+        icon: "/product-site-demo/feature-icon3.svg",
         highlight: "Summarize AI.",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer necodio.",
         styles: "left-5 md:left-20 top-[50%] opacity-0 translate-y-5",
     },
     {
         id: 4,
-        icon: "/feature-icon4.svg",
+        icon: "/product-site-demo/feature-icon4.svg",
         highlight: "AirDrop.",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer necodio vitae justo malesuada posuere.",
         styles: "right-5 md:right-20 top-[70%] opacity-0 translate-y-5",
     },
     {
         id: 5,
-        icon: "/feature-icon5.svg",
+        icon: "/product-site-demo/feature-icon5.svg",
         highlight: "Writing Tool.",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer necodio vitae justo malesuada posuere.",
         styles: "left-5 md:left-20 top-[90%] opacity-0 translate-y-5",
@@ -113,11 +113,11 @@ const features = [
 ];
 
 const featureSequence = [
-    { videoPath: "/videos/feature-1.mp4", boxClass: ".box1", delay: 1 },
-    { videoPath: "/videos/feature-2.mp4", boxClass: ".box2", delay: 0 },
-    { videoPath: "/videos/feature-3.mp4", boxClass: ".box3", delay: 0 },
-    { videoPath: "/videos/feature-4.mp4", boxClass: ".box4", delay: 0 },
-    { videoPath: "/videos/feature-5.mp4", boxClass: ".box5", delay: 0 },
+    { videoPath: "/product-site-demo/videos/feature-1.mp4", boxClass: ".box1", delay: 1 },
+    { videoPath: "/product-site-demo/videos/feature-2.mp4", boxClass: ".box2", delay: 0 },
+    { videoPath: "/product-site-demo/videos/feature-3.mp4", boxClass: ".box3", delay: 0 },
+    { videoPath: "/product-site-demo/videos/feature-4.mp4", boxClass: ".box4", delay: 0 },
+    { videoPath: "/product-site-demo/videos/feature-5.mp4", boxClass: ".box5", delay: 0 },
 ];
 
 const footerLinks = [

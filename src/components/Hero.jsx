@@ -12,10 +12,10 @@ const Hero = () => {
             <div>
                 <h1>Product Demo Site</h1>
                 <br/>
-                <img src="/title.png" alt="Product Title" />
+                <img src="/product-site-demo/title.png" alt="Product Title" />
             </div>
 
-            <video ref={videoRef} src="/videos/hero.mp4" autoPlay muted playsInline />
+            <video ref={videoRef} src="/product-site-demo/videos/hero.mp4" autoPlay muted playsInline />
 
             <button>Buy</button>
 
